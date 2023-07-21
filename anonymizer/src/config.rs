@@ -1,6 +1,7 @@
 //! This module defines basic configuration structures which can be loaded based on a set of
 //! environment variables.
 //!
+//!
 //! # Kafka
 //! The [`KafkaConfig`] structure is defined by (and loaded from) the following set of environment
 //! variables:

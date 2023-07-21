@@ -1,6 +1,7 @@
 # anonymizer
 ![Version: 0.4.1](https://img.shields.io/badge/version-0.4.1-blue)
 
+
 ## Environment
 The application expects certain set of environment variables (described below). A working
 configuration can be found in `../.envrc` can can be automatically loaded with tools such as
@@ -258,4 +259,3 @@ And to make the implementation more sane this crate also depends on:
    _[addressed in `v0.2.0`]_
  - Generally way more integration and unit tests would be necessary for this to make it into a
    production-ready state
-

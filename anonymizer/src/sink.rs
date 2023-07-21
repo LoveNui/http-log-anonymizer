@@ -1,3 +1,4 @@
+//!
 //! This module contains the implementation of the [`ClickHouseSink`].
 //!
 //! TODO

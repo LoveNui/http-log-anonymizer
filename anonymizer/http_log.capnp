@@ -1,5 +1,6 @@
 @0xf42cd342ff520eca;
 
+
 struct HttpLogRecord {
   timestampEpochMilli @0 :UInt64;
   resourceId @1 :UInt64;

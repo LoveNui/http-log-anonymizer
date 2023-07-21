@@ -1,5 +1,5 @@
 //! Module with helper components for keeping track of the limit for a rate-limited operation.
-
+//!
 use std::time::{Duration, Instant};
 
 // XXX: make the limiter adaptive (learn an appropriate request rate from an init setting)
